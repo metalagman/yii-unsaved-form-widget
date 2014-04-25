@@ -1,0 +1,17 @@
+{
+    "name": "lagman/yii-unsaved-form-widget",
+    "description": "Unsaved form widget for Yii",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Samoylov",
+            "email": "alexey.samoylov@gmail.com",
+            "homepage": "http://yiiblog.ru",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.4.0"
+    }
+}
