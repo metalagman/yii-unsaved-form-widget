@@ -5,5 +5,5 @@ Unsaved form widget for Yii
 $this->widget('lagman.vendor.yii-unsaved-form-widget.UnsavedFormWidget', [
     'message'=>'There are some unsaved data.',
     'form'=>$form,
-])
+]);
 ```
